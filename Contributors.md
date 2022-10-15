@@ -1874,6 +1874,6 @@ collins kiplangat mutai(Kiplaacollo)
 - [Ryan James](https://github.com/ryanjames1729)
 - [Pratik Pawar](https://github.com/Pawar-Pratik)
 - [Muh Zakir Ramadhan](https://github.com/zakirkun)
-
+- [Alok M](https://github.com/alok-m)
 
 <!-- prettier-ignore-end -->
